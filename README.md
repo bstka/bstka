@@ -18,6 +18,7 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bstka&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bstka" />
  <img src="https://github-readme-stats.vercel.app/api?username=bstka&show_icons=true&theme=tokyonight&locale=en" alt="bstka" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=bstka&theme=dark" alt="bstka" />
 </p>
 
 
