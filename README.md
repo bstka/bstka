@@ -4,32 +4,37 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bstka&label=Random%20guys%20stalked%20me&color=530eb6&style=flat-square" alt="bstka" /> </p>
 
 <p>
- <div align="left">
-  - 🔭 I’m currently developing **Private Backend Framework**
+ <table>
+  <tr>
+   <td>
+    - 🔭 I’m currently developing **Private Backend Framework**
 
- - 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
+    - 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
 
- - 🤝 I’m looking for help with **Time/Project Management**
+    - 🤝 I’m looking for help with **Time/Project Management**
 
- - 💬 Ask me about **Anything (When i know, i will answer it)**
+    - 💬 Ask me about **Anything (When i know, i will answer it)**
 
- - 📫 How to reach me **@bstka20**
+    - 📫 How to reach me **@bstka20**
 
- - ⚡ Fun fact **I'm Young Man with old face**
- </div>
- <div align="right">
-  - 🔭 I’m currently developing **Private Backend Framework**
+    - ⚡ Fun fact **I'm Young Man with old face**
+   </td>
+   <td>
+    - 🔭 I’m currently developing **Private Backend Framework**
 
- - 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
+    - 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
 
- - 🤝 I’m looking for help with **Time/Project Management**
+    - 🤝 I’m looking for help with **Time/Project Management**
 
- - 💬 Ask me about **Anything (When i know, i will answer it)**
+    - 💬 Ask me about **Anything (When i know, i will answer it)**
 
- - 📫 How to reach me **@bstka20**
+    - 📫 How to reach me **@bstka20**
 
- - ⚡ Fun fact **I'm Young Man with old face**
- </div>
+    - ⚡ Fun fact **I'm Young Man with old face**
+   </td>
+  </tr>
+ </table>
+  
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bstka&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bstka" />
