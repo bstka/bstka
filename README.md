@@ -7,18 +7,17 @@
  <table>
   <tr>
    <td>
+    * 🔭 I’m currently developing **Private Backend Framework**
     
-    - 🔭 I’m currently developing **Private Backend Framework**
+    * 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
     
-    - 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
+    * 🤝 I’m looking for help with **Time/Project Management**
     
-    - 🤝 I’m looking for help with **Time/Project Management**
+    * 💬 Ask me about **Anything (When i know, i will answer it)**
     
-    - 💬 Ask me about **Anything (When i know, i will answer it)**
+    * 📫 How to reach me **@bstka20**
     
-    - 📫 How to reach me **@bstka20**
-    
-    - ⚡ Fun fact **I'm Young Man with old face**
+    * ⚡ Fun fact **I'm Young Man with old face**
    </td>
    <td>
     
