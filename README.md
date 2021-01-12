@@ -19,7 +19,10 @@
     - 📫 How to reach me **@bstka20**
     
     - ⚡ Fun fact **I'm Young Man with old face**
-    
+   </td>
+   <td>
+    <img src="./" alt="bstka" />
+   </td>
   </tr>
  </table>
   
