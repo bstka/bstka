@@ -8,42 +8,12 @@
   <tr>
    <td>
     - 🔭 I’m currently developing **Private Backend Framework**
-   </td>
-   <td>
+    
     - 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
-   </td>
-   <td>
     - 🤝 I’m looking for help with **Time/Project Management**
-   </td>
-   <td>
     - 💬 Ask me about **Anything (When i know, i will answer it)**
-   </td>
-   <td>
     - 📫 How to reach me **@bstka20**
-   </td>
-   <td>
     - ⚡ Fun fact **I'm Young Man with old face**
-   </td>
-  </tr>
-  <tr>
-   <td>
-    - 🔭 I’m currently developing **Private Backend Framework**
-   </td>
-   <td>
-    - 🌱 I’m currently learning **Software Security, DevOps, AWS, GCP, MSAZR**
-   </td>
-   <td>
-    - 🤝 I’m looking for help with **Time/Project Management**
-   </td>
-   <td>
-    - 💬 Ask me about **Anything (When i know, i will answer it)**
-   </td>
-   <td>
-    - 📫 How to reach me **@bstka20**
-   </td>
-   <td>
-    - ⚡ Fun fact **I'm Young Man with old face**
-   </td>
   </tr>
  </table>
   
