@@ -21,7 +21,7 @@
     - ⚡ Fun fact **I'm Young Man with old face**
    </td>
    <td>
-    <img src="./2020-12-15-094044.jpg" alt="bstka" />
+    <img src="https://avatars1.githubusercontent.com/u/32157093?s=460&u=968c1072a9a59c242b85e73f9e7a58eea40e3b99&v=4" alt="bstka" />
    </td>
   </tr>
  </table>
